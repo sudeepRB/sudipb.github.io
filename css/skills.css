@@ -1,0 +1,29 @@
+*, html {
+-webkit-font-smoothing: antialiased; }
+* {box-sizing: border-box}
+.containerskill {
+width: 100%;
+background-color: #ddd;
+}
+.skill i{
+padding: 20px;
+font-size: 20px;
+}
+.skills {
+text-align: right;
+padding: 15px;
+color: yellow;
+height: 50px;
+}
+.innertext {
+float:left;
+font-size: 16px;
+padding-bottom: 12px;
+}
+.design {width: 90%; background-color:  #383D2E;}
+.coding {width: 80%; background-color:  #383D2E;}
+.framework {width: 80%; background-color:  #383D2E;}
+.wireframe {width: 95%; background-color:  #383D2E;}
+.prototype {width: 90%; background-color:  #383D2E;}
+.otherskills {width: 95%; background-color: #383D2E;}
+.communication {width: 95%; background-color: #383D2E;}
